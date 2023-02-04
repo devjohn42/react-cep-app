@@ -15,10 +15,10 @@
 
 @keyframes flipTitle {
   from {
-    transform: rotateY(90deg);
+    transform: rotateX(90deg);
   }
   to {
-    transform: rotateY(0deg);
+    transform: rotateX(0deg);
   }
 }
 
