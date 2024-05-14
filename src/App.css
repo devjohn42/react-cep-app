@@ -51,7 +51,7 @@
   align-items: center;
   justify-content: center;
   cursor: pointer;
-  transition: transform .3s
+  transition: transform 0.3s;
 }
 
 .buttonSearch:hover {
@@ -83,7 +83,7 @@
   font-size: 1rem;
 }
 
-@media  screen and (max-width: 620px){
+@media screen and (max-width: 620px) {
   .title {
     font-size: 3rem;
   }
@@ -97,6 +97,6 @@
     font-size: 1.5rem;
   }
   .mainContainer span {
-    font-size: .9rem;
+    font-size: 0.9rem;
   }
 }
